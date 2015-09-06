@@ -30,7 +30,8 @@ class Boot {
 	       "Static Content")),
 
       //testing adding an "About" menu
-      Menu(Loc("About", Link(List("about"), true, "/about/index"), "About")))
+      Menu(Loc("About", Link(List("about"), true, "/about/index"),
+        "About")))
 
     // set the sitemap.  Note if you don't want access control for
     // each page, just comment this line out.
