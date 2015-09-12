@@ -26,7 +26,6 @@ class Boot {
 
       Menu.i("About") / "about" submenus(
         Menu("Experience") / "about" / "experience"
-        ),
       ), //testing about menu
 
       // more complex because this menu allows anything in the
