@@ -1,7 +1,7 @@
 # lift-blank-heroku
 The lift_blank 2.6 project dressed for Heroku deployment applied to InternBritany
 
-[ ![Codeship Status for blmeadows/lift-blank-heroku](https://codeship.com/projects/9ea9c910-3b86-0133-aee8-428ee47fa127/status?branch=master)](https://codeship.com/projects/102116)
+[ ![Codeship Status for blmeadows/lift-blank-heroku](https://codeship.com/projects/9ea9c910-3b86-0133-aee8-428ee47fa127/status?branch=test)](https://codeship.com/projects/102116)
 
 See it live at [http://internbritany.herokuapp.com/](http://internbritany.herokuapp.com/)
 
